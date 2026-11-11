@@ -37,4 +37,3 @@ Building useful things and learning in public.
 
 <a href="https://github.com/ridv2002">GitHub</a>
 
-<p align="center"><sub>ridv2002 · <a href="https://www.gitskins.com/readme-generator?template=community-recruiter-ready-remix-ck3z">Recruiter-ready Remix</a> template by <a href="https://www.gitskins.com/creators/yousefi1989">@yousefi1989</a>, a remix of <a href="https://www.gitskins.com/readme-generator?template=recruiter">Recruiter-ready</a> by GitSkins · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
