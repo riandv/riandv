@@ -4,13 +4,11 @@
   <img src="https://www.gitskins.com/api/section/hero?username=ridv2002&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F335158416%3Fu%3Dc62f84c6a2a739742b9a9594348f10edea2aaa1a%26v%3D4" alt="ridv2002 hero visual" />
 </p>
 
-**ridv2002** · Frontend or full-stack engineer
+**ridv2002** · full-stack engineer
 
 ## About
 
 Building useful things and learning in public.
-
-- 👥 **0** followers · **0** following
 
 ## Proof at a glance
 
