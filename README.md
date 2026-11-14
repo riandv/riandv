@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rian&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Rian" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=RIDV2002&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Rian" />
 </p>
 
 <p align="center">
@@ -36,18 +36,6 @@ Desenvolvo aplicações com TypeScript, Node.js e React, com foco em APIs, integ
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ridv2002&theme=tokyonight&hide_border=true" alt="Sequência de commits" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ridv2002&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ridv2002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas e total de commits" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ridv2002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="Troféus" />
 </p>
 
 <p align="center">
