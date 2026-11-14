@@ -1,23 +1,36 @@
-## Profile snapshot
-
+<h1 align="center">Rian</h1>
+ 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=ridv2002&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F335158416%3Fu%3Dc62f84c6a2a739742b9a9594348f10edea2aaa1a%26v%3D4" alt="ridv2002 hero visual" />
+  <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="gif" />
+</p>
+<p align="center">
+  <strong>Desenvolvedor Full Stack · APIs, aplicações web e software para Linux</strong>
+</p>
+<p align="center">
+  <a href="https://github.com/ridv2002?tab=repositories">Explore meus repositórios</a>
 </p>
 
-**ridv2002** · full-stack engineer
-
-## About
-
-Building useful things and learning in public.
-
-## Proof at a glance
-
-<table>
-<tr><td align="center"><b>4</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>40</b><br/><sub>contributions</sub></td></tr>
-</table>
-
-## Core toolkit
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-
+## Sobre mim
+ 
+Desenvolvo aplicações com TypeScript, Node.js e React, com foco em APIs, integração com bancos de dados e organização do código. Também exploro Java com Spring Boot e aplicações nativas para Linux com Rust, GTK4 e libadwaita.
+ 
+## Tecnologias
+ 
+| Área | Tecnologias |
+| --- | --- |
+| Front-end | React, TypeScript, Vite, HTML e CSS |
+| Back-end | Node.js, Fastify, Java e Spring Boot |
+| Dados | PostgreSQL, Drizzle ORM e Spring Data JPA |
+| APIs | Zod, Swagger, JWT e Spring Security |
+| Desktop Linux | Rust, GTK4 e libadwaita |
+ 
+## Atividade no GitHub
+ 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ridv2002&theme=tokyonight&hide_border=true" alt="Sequência de commits" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ridv2002&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade" />
+</p>
+<!-- Adicione aqui seu LinkedIn e um e-mail profissional, caso queira disponibilizar contato. -->
+ 
